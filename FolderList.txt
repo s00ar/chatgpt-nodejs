@@ -1,0 +1,17 @@
+.env
+.gitignore
+.wwebjs_auth
+.wwebjs_cache
+apiHandler.js
+authMiddleware.js
+database.js
+FolderList.txt
+FullFolderList.txt
+ignoredNumberRoutes.js
+index.js
+messageHandler.js
+node_modules
+package-lock.json
+package.json
+testConnection.js
+userRoutes.js
